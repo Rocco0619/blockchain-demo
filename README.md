@@ -12,7 +12,7 @@ http://andersbrownworth.com/blockchain/
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/Rocco0619/blockchain-demo.git
 ```
 
 Install dependencies:
@@ -48,7 +48,7 @@ http://localhost:3000
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/Rocco0619/blockchain-demo.git
 ```
 
 Run the Docker setup:
@@ -100,7 +100,7 @@ That one block would take this software approximately 8,454,989,768,407,765 year
 ### Public Private Key Demo
 
 The 2nd part of the 101 session:
-* https://github.com/anders94/public-private-key-demo
+* https://github.com/Rocco0619/public-private-key-demo
 
 ## Send Thanks
 
